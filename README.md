@@ -140,12 +140,11 @@ if __name__ == '__main__':
 
 ```
 
-Reference:
+### Reference:
 * Using a PCA9685 module with Raspberry Pi
 https://www.aranacorp.com/en/using-a-pca9685-module-with-raspberry-pi/
 * GPIO Distance Sensor https://gpiozero.readthedocs.io/en/stable/recipes.html#distance-sensor
 
-Unfortunately, I can't install the opencv on my raspberry pi in the end....However, I have tried to reach the familiar result as possible as I can with gpio Distance sensor but it still don't work....As a result, I present how my cupwaiter reach out the arm and how it pour the drink or "drop" something down brutally.
 
 ## Summary
 This tuesday, I've showed my brutal Cupwaiter in class. As you see, it's brutal when it handed in my bottle to me. At first, My original idea is to create a polite and considerate waiter. During this week, I've tried to slow down the dropping speed to make it like a graceful waiter, however, that isn't special enough. Therefore, I maintain the speed at the end and I think this is a kind of its feature, which is a perfect inperfection.
@@ -163,6 +162,12 @@ This tuesday, I've showed my brutal Cupwaiter in class. As you see, it's brutal 
 * lack of the ability to access imformation
 * not enough patient on raspberry pi
 * As mentioned above, those are my weakness and insufficiency make me feel frustrated in this class but I still try hard to make my project getting better and better. Thanks to Mr.George, TAs and classmates having me learn lots of Iot knowledge that I haven't experinced before.
+
+### gesture recognition reference
+https://www.hackster.io/as4527/volume-control-using-hand-gesture-using-python-and-opencv-7aab9f
+https://gogul.dev/software/hand-gesture-recognition-p1
+https://techvidvan.com/tutorials/hand-gesture-recognition-tensorflow-opencv/
+https://towardsdatascience.com/training-a-neural-network-to-detect-gestures-with-opencv-in-python-e09b0a12bdf1
 
 
 
