@@ -1,5 +1,5 @@
 # IoT final project : (Brutal) Cupwaiter
-
+2021 Fall IOT course in NCU
 
 ## Overview
 The "Cupwaiter" is a concept of a robotic arm with cupholder, which has several functions. It captures the user's gesture and the distance from the user to follow the user and provides the user with a space to place his bottle. Basically, it just like a waiter standing in front of you and serving you. Unexpectedly, the waiter is such an overbearing waiter, he is brutal and strong when he handing the drink to the user, truely 有個性, so we call him Brutal Cupwaiter. On top of that, there is an interesting coincident, when we say brutal for many times, brutal, brutal, brutal, ...霸道!, sounds familiar in Mandarin. There would be several extra functions and introduction mentioned later.
